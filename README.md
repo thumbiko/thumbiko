@@ -22,7 +22,7 @@ To leverage my background in IT operations and cloud infrastructure to transitio
 
 | Skill | Associated Project |
 |-------|--------------------|
-| **SIEM Implementation & Log Analysis** | [Azure SOC Honeynet Project](https://github.com/thumbiko/Azure-SOC-Honeynet) |
+| **SIEM Implementation & Log Analysis** | [Azure SOC Honeynet Project](https://github.com/thumbiko/Azure-SOC-Honeynet/tree/main) |
 | **Network Traffic Monitoring & Threat Detection** | [Azure SOC Honeynet Project](https://github.com/thumbiko/Azure-SOC-Honeynet) |
 | **Security Automation (SOAR)** | [SOC Automation Lab](https://github.com/thumbiko/SOC-Automation-Lab) |
 | **Incident Response & Case Management** | [SOC Automation Lab](https://github.com/thumbiko/SOC-Automation-Lab) |
@@ -84,7 +84,7 @@ To leverage my background in IT operations and cloud infrastructure to transitio
 ---
 
 ## 🚀 Featured Projects  
-- 🔐 [Azure SOC Honeynet Project](https://github.com/thumbiko/Azure-SOC-Honeynet) — Built a cloud-based honeynet in Azure with Sentinel integration to detect and analyze attacks in real-time.  
+- 🔐 [Azure SOC Honeynet Project](https://github.com/thumbiko/Azure-SOC-Honeynet/tree/main) — Built a cloud-based honeynet in Azure with Sentinel integration to detect and analyze attacks in real-time.  
 - ⚙️ [SOC Automation Lab](https://github.com/thumbiko/SOC-Automation-Lab) — Developed a workflow for automated incident response using Shuffle SOAR and TheHive.  
 - 🌐 [Biko Blogs](https://github.com/thumbiko/Biko-Blogs) — Secure blog application implementing JWT authentication and secure REST APIs.  
 - 🌩️ [OpenVPN Server on AWS](https://github.com/thumbiko/OpenVPN-Server) — Deployed a secure VPN solution with SSH and key-based authentication for remote access.  
