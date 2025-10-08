@@ -100,3 +100,7 @@ To leverage my background in IT operations and cloud infrastructure to transitio
 ---
 
 ⭐ *“Security is not a product, but a process.” — Bruce Schneier*  
+
+
+
+<img alt="my stats" src="https://github-readme-stats.vercel.app/api?username=thumbiko"/>
