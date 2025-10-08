@@ -103,4 +103,4 @@ To leverage my background in IT operations and cloud infrastructure to transitio
 
 
 
-<img alt="my stats" src="https://github-readme-stats.vercel.app/api?username=thumbiko"/>
+<img alt="my stats" src="https://github-readme-stats.vercel.app/api?username=thumbiko&theme=cobalt"/>
