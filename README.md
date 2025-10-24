@@ -7,7 +7,7 @@
 
 ## 👨🏾‍💻 About Me  
 I’m a **Cybersecurity Analyst** with hands-on experience in **vulnerability management**, **cloud security (AWS, Azure)**, and **security automation** using PowerShell and Python.  
-Currently working as an **IT Service Desk Analyst at Atos**, where I strengthen enterprise endpoint security and support automation initiatives.  
+ 
 
 Passionate about cybersecurity operations, SOC analysis, and building secure cloud architectures.
 
