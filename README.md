@@ -13,8 +13,6 @@ Passionate about cybersecurity operations, SOC analysis, and building secure clo
 
 ---
 
-## 🎯 Objective  
-To leverage my background in IT operations and cloud infrastructure to transition into a **Security Operations Center (SOC)** role as a **Tier 1 Analyst**, specializing in **threat detection, automation, and incident response**.
 
 ---
 
