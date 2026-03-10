@@ -6,7 +6,7 @@
 ---
 
 ## 👨🏾‍💻 About Me  
-I’m a Cybersecurity Analyst and Web Developer with hands-on experience in vulnerability management, cloud security (AWS, Azure), security automation using PowerShell and Python, as well as building secure and scalable web applications.
+I’m a Cybersecurity Analyst and Full Stack Developer with hands-on experience in vulnerability management, cloud security (AWS, Azure), security automation using PowerShell and Python, as well as building secure and scalable web applications.
 
 Passionate about cybersecurity operations, SOC analysis, secure cloud architectures, and full-stack web development.
 
