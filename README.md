@@ -91,7 +91,7 @@ Passionate about cybersecurity operations, SOC analysis, secure cloud architectu
 ## 📫 Contact  
 📍 Co. Kildare, Ireland  
 📧 [thumbikonyasulu@ymail.com](mailto:thumbikonyasulu@ymail.com)  
-🌐 [bikosulu.eu](https://bikosulu.eu)  
+🌐 [bikosulu.eu](https://bikosulu.com)  
 💼 [linkedin.com/in/tivz](https://linkedin.com/in/tivz)
 
 ---
