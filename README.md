@@ -24,6 +24,7 @@ Currently in the final semester of an MSc in Cyber Security at the National Coll
 | **CI/CD Pipeline & DevSecOps** | [CI/CD Docker Jenkins Pipeline](https://github.com/thumbiko/cicd-docker-jenkins-pipeline) |
 | **Secure Full-Stack Web Development** | [Secure Web App Project](https://github.com/thumbiko/Secure_Web_App_Proj) |
 | **Scripting & Automation (PowerShell/Python)** | [AWS Infrastructure Automation](https://github.com/thumbiko/aws-infrastructure-automation) |
+| **Web Mapping & Spatial Data (GIS)** | [Cloud-Native Property Engine](https://bikosulu.com/projects) |
 
 ---
 
@@ -75,6 +76,16 @@ Currently in the final semester of an MSc in Cyber Security at the National Coll
     <img src="https://img.shields.io/badge/-Node.js-339933?&style=for-the-badge&logo=node.js&logoColor=white" />
     <img src="https://img.shields.io/badge/-MongoDB-47A248?&style=for-the-badge&logo=mongodb&logoColor=white" />
     <img src="https://img.shields.io/badge/-Express-000000?&style=for-the-badge&logo=express&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Django-092E20?&style=for-the-badge&logo=django&logoColor=white" />
+    <img src="https://img.shields.io/badge/-PostgreSQL-336791?&style=for-the-badge&logo=postgresql&logoColor=white" />
+</div>
+
+### 🗺️ Web Mapping & GIS  
+<div>
+    <img src="https://img.shields.io/badge/-Leaflet.js-199900?&style=for-the-badge&logo=leaflet&logoColor=white" />
+    <img src="https://img.shields.io/badge/-PostGIS-336791?&style=for-the-badge&logo=postgresql&logoColor=white" />
+    <img src="https://img.shields.io/badge/-GeoDjango-092E20?&style=for-the-badge&logo=django&logoColor=white" />
+    <img src="https://img.shields.io/badge/-OpenStreetMap-7EBC6F?&style=for-the-badge&logo=openstreetmap&logoColor=white" />
 </div>
 
 ---
@@ -98,7 +109,7 @@ Currently in the final semester of an MSc in Cyber Security at the National Coll
 - ⚙️ [CI/CD Docker Jenkins Pipeline](https://github.com/thumbiko/cicd-docker-jenkins-pipeline) — Built a containerised CI/CD pipeline using Docker and Jenkins for automated build and deployment workflows.
 - 🌐 [Biko Sphere](https://github.com/thumbiko/biko-sphere1) — Personal portfolio and project showcase platform.
 - 🔴 [Biko Pen Test Labs](https://github.com/thumbiko/Biko-Pen-Test) — Directory of offensive security labs covering penetration testing techniques and tooling.
-- 🏠 [Cloud-Native Property Engine](https://bikosulu.com/projects) — Full-stack property search platform with cloud-native architecture (AWM24).
+- 🗺️ [Cloud-Native Property Engine](https://bikosulu.com/projects) — Full-stack property search platform with GeoDjango, PostGIS, Leaflet.js and OpenStreetMap deployed via Docker on AWS.
 - 🔑 [Hardened AWS OpenVPN Infrastructure](https://github.com/thumbiko/OpenVPN-Server-on-AWS) — Deployed a secure VPN solution on AWS with SSH hardening and key-based authentication.
 
 ---
