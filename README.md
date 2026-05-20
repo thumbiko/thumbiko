@@ -180,6 +180,6 @@ Currently completing an MSc in Cyber Security at the National College of Ireland
 
 ---
 
-⭐ *"Security is not a product, but a process." — Bruce Schneier*
+
 
 <img alt="my stats" src="https://github-readme-stats.vercel.app/api?username=thumbiko&theme=cobalt"/>
